@@ -14,6 +14,7 @@ const Cosmetics = () => {
             <h1>Hello Rabbi</h1>
             {
                 cosmetics.map(cosmetics => <Cosmetic
+                    key={cosmetics.id}
                     cosmetics={cosmetics}
                 ></Cosmetic>)
             }

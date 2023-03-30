@@ -9,7 +9,7 @@ const Cosmetic = (props) => {
     //     console.log( id);
     // }
     const addtocart = (id) =>{
-        addToDb(id);
+        addToDb(id);//this function call for add to database
     }
 
     const rabbi = () => addtocart(id);

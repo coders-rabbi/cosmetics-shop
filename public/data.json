@@ -1,0 +1,52 @@
+[
+    {
+      "id": "6424a3d47d06690becbc019c",
+      "index": 0,
+      "balance": "$2,756.55",
+      "age": 20,
+      "name": "Gates Ward",
+      "company": "COMTEST",
+      "email": "gatesward@comtest.com",
+      "phone": "+1 (998) 525-2810"
+    },
+    {
+      "id": "6424a3d4f1fbaeb7252bfeef",
+      "index": 1,
+      "balance": "$3,047.33",
+      "age": 28,
+      "name": "Aguilar Snider",
+      "company": "VORATAK",
+      "email": "aguilarsnider@voratak.com",
+      "phone": "+1 (973) 552-2632"
+    },
+    {
+      "id": "6424a3d464dca11ef5292af6",
+      "index": 2,
+      "balance": "$1,224.47",
+      "age": 35,
+      "name": "Katie Cooper",
+      "company": "XIXAN",
+      "email": "katiecooper@xixan.com",
+      "phone": "+1 (819) 501-2800"
+    },
+    {
+      "id": "6424a3d435aa3c3ece91eb2e",
+      "index": 3,
+      "balance": "$2,112.56",
+      "age": 24,
+      "name": "Good Rowe",
+      "company": "GEEKULAR",
+      "email": "goodrowe@geekular.com",
+      "phone": "+1 (907) 435-3633"
+    },
+    {
+      "id": "6424a3d4ecfde5b2764a4fd3",
+      "index": 4,
+      "balance": "$1,892.50",
+      "age": 28,
+      "name": "Corine Frazier",
+      "company": "SLOGANAUT",
+      "email": "corinefrazier@sloganaut.com",
+      "phone": "+1 (937) 408-2765"
+    }
+  ]
